@@ -1,5 +1,5 @@
 # 💫 About Me:
-Administrador de sistema & AI engineer(Junior)<br>Abierto a nuevos conocimiento y enfocado en progresar<br>
+Administrador de sistema & AI engineer (Junior)<br>Abierto a nuevos conocimientos y enfocado en progresar<br>
 
 
 # 💻 Tech Stack:
